@@ -12,4 +12,4 @@ mat_to_csvフォルダは、SSSEP~.mat(生データ)から、心電図を算出�
 実行結果は、ECG_kumakura_boredom.csvが出力される。場所は、csv->0_kumakura->ECG
 
 
-
+constants.pyはpath_to_matlab_repository_folder = "/content/soturon"を変更
