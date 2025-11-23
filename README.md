@@ -59,6 +59,10 @@ focus_on_single_subject自作.ipynbにて、FczのconcentrationとLFを描画す
 
 二次回帰分析:bpm,breathingrate,認知作業負荷(FC3,FC4,FCz)の最大値、HRV-HF,HRV-LF,PNN20,PNN50,rMSSD,sd1,sd2,sdsd
               
-卒論:フロースコアと各指標間の相関分析
-kokokara!!!!!
+卒論:フロースコアと各指標間の相関分析,フロースコアを従属変数、各指標を独立変数とした線形回帰分析、二次回帰分析。
+
+相関分析:全ての参加者、フェーズのデータを結合して、心拍変動パラメーたと認知作業負荷でフロースコアに対する相関分析を行なっている。ピアソンの積率相関分析、集中度、難易度、時間感覚、満足感
+
+回帰分析:Boredom,Flow,Flow_ultra,Overloadでの回帰分析。有意性を確認して、注目するべき指標を紹介している。今回でいうと、FC3とHF/LF
+
 
